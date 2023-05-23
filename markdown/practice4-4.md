@@ -78,4 +78,4 @@ print(answer)
 ```
 
 ##### 교재 풀이
-[practice4-3 교재 풀이](https://github.com/ndb796/python-for-coding-test/blob/master/4/4.py)
+[practice4-4 교재 풀이](https://github.com/ndb796/python-for-coding-test/blob/master/4/4.py)
